@@ -1,8 +1,3 @@
 function getData(){
     
 }
-
-
-function deleteData(){
-    
-}
